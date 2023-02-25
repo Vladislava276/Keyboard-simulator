@@ -1,0 +1,37 @@
+36
+A
+computer
+D
+K
+debug system
+G
+I
+double
+Q
+error
+Z
+Y
+progress
+R
+F
+game over
+O
+T
+B
+windows
+J
+M
+S
+X
+mistake
+C
+E
+float
+N
+return
+H
+W
+V
+random
+U
+Z
